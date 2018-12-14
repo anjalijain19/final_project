@@ -38,7 +38,7 @@ class SideBar extends Component {
     });
     this.props.updateSuperState({ markers });
   };
-  //the sidemenu that contains information about the hotels of Bhopal also included the tabindex
+  //the sidemenu that contains information about the restaurant of indore
   render() {
     return (
       <div className="sidebar">

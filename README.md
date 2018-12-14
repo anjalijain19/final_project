@@ -3,8 +3,8 @@
 
 - A Single Page App made by using create-react-app, Google Maps API and Foursquare API showcasing the neighbordhood has to offer.
 
-- Shows the hotels of Bhopal
-- Search hotels and the last result will animate
+- Find restaurant in indore
+- Search restaurant and the last result will animate
 
 
 
